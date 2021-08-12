@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SyncSharePointList", "SyncSharePointList\SyncSharePointList.dtproj", "{C7A7C6E0-F4A1-406C-8451-08848865FE71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7A7C6E0-F4A1-406C-8451-08848865FE71}.Development|Default.ActiveCfg = Development
+		{C7A7C6E0-F4A1-406C-8451-08848865FE71}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05CCB200-F192-459A-BBE5-4D890045BDA8}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="Win16SqlDev17.SPO_HongPhucVi_Country.dev"
+  DTS:DTSID="{EF769E8C-21CA-44DE-B829-651AF178B325}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=Win16SqlDev17;User ID=dev;Initial Catalog=SPO_HongPhucVi_Country;Provider=SQLNCLI11.1;Persist Security Info=True;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAyQMLXMIOsEO4U2lJFD9F6AAAAAACAAAAAAAQZgAAAAEAACAAAAAkLJmcao61rF40rvka1nwIWfuyRNKbzunL0ZoGjLq06wAAAAAOgAAAAAIAACAAAACslCJMU53enONkgo5paYiMJcI2NmHX3tBANVBhklEboYAAAABj1QTB2XRwY3MI0I6nQC1qRR3/4UxDxR98V5jQAU/QX71NPGvHLZMw776c4t8DQzm+VXYWSnRArb/cGJuwjElMnmk7GKGUH+h/O/uHoAd6PjqrYBKxxe92S7gtxWOmo4QmAsDnmFc7YCp+5D2s1W5mXkZZ+bC8TPL+JslU7OkAVkAAAADmtIC3+6lBSuOYi/YoWtmtL6ise+xBeJcztI3Xey9axeZxA7I7hTyLeFw0UgBe1p3y8m0tzHrEkrz8SikDAY0L</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
