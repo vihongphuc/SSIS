@@ -26,7 +26,7 @@
           <SSIS:Property SSIS:Name="CreatorComputerName">Win16SqlDev17</SSIS:Property>
           <SSIS:Property SSIS:Name="Description">
           </SSIS:Property>
-          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAyQMLXMIOsEO4U2lJFD9F6AAAAAACAAAAAAAQZgAAAAEAACAAAABOY6pj6pbYEWDu4TRC5gQMD3Zp8CXdjHfLhlvptXwNRgAAAAAOgAAAAAIAACAAAAC2ebWzcl/HCwq4jVC+K9MEpaEPWFR9h/W/JD7k63Z2XZAAAADuIxsD2y53iAaj3alCmpPePayOS1fTdCl8DVfeVRtuneJO/yhpU8b+0w2bt0GN7HBg2paAMYj91YaK8gVGW5AYz8sAyhpUKvv67RzrWVaorQrI4xZvmBFJrTZGVNUOBSs+8rxlXt2eBUxwqdhu6eEkuhBaygQ9BXIGEuJX5eoOSAj9mDfreAGVoDk6pGe0etdAAAAAYn/wIEvV2toNF5BoSNy12IP4N7zvrmQ28nFhUuCCzxBIx/hOpsqMJjvFzvlr5lUzRebJxkQakqWpZLcWB7LWJw==</SSIS:Property>
+          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAWquvbO8iX0OghpbO8bvr7gAAAAACAAAAAAAQZgAAAAEAACAAAADAEXSMoJQqT0DKC41Nrr66BaXSFqC0I+8pUqPBlds69gAAAAAOgAAAAAIAACAAAADr3NynI0sqHF/eJNqH+fHjrZlE13cdLppKzpO2P4cjOZAAAACXD/jlhb6r+W8XQbWJmF9hThj75I3Wc7i/aGFJVMf/txiFhhGRN4X25iQBXEyo3gTDuKrZM7C2wb33BBjICfG3UIHjUOSCJTfSjCIq8/UD/h/boh7hwX8iLjmBbXZWepTHR1TTPo3fHXF3fA1zbQitnI2muiqV3dFOjlwJglfZ37/Fxhaje0RZ0bWcSeM14vFAAAAA4t35alE8THR3ghWkk/oGZyoXfoqs/M8R3UuPwE8EddNlHGQztp7H4jm7FBg5ghLUc6y3NQ4GKzZl2+okdjXCaQ==</SSIS:Property>
           <SSIS:Property SSIS:Name="FormatVersion">1</SSIS:Property>
         </SSIS:Properties>
         <SSIS:Packages>
@@ -194,10 +194,10 @@
                 <SSIS:Property SSIS:Name="Name">SPO_DB</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMajor">1</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMinor">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionBuild">36</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionBuild">37</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionComments">
                 </SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionGUID">{2D99B526-80A1-4F70-82C4-F6C29E827689}</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionGUID">{839B0754-573F-4484-A299-90A924BC6008}</SSIS:Property>
                 <SSIS:Property SSIS:Name="PackageFormatVersion">8</SSIS:Property>
                 <SSIS:Property SSIS:Name="Description">
                 </SSIS:Property>
@@ -813,6 +813,10 @@
   </DeploymentModelSpecificContent>
   <ControlFlowParts />
   <Miscellaneous>
+    <ProjectItem>
+      <Name>BDD_Country.sql</Name>
+      <FullPath>BDD_Country.sql</FullPath>
+    </ProjectItem>
     <ProjectItem>
       <Name>BDD_Employee.sql</Name>
       <FullPath>BDD_Employee.sql</FullPath>
