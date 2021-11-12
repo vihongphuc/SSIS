@@ -1,0 +1,18 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="OData Source"
+  DTS:DTSID="{F4F76B64-9E1C-4F91-B582-3D039536E64F}"
+  DTS:CreationName="ODATA">
+  <DTS:ObjectData>
+    <ODataConnectionManager
+      UserName="admin@tanentId.onmicrosoft.com"
+      Url="https://tanentId.sharepoint.com/sites/TheLanding/_vti_bin/listdata.svc"
+      ConnectionString="Service Document Url=https://tanentId.sharepoint.com/sites/TheLanding/_vti_bin/listdata.svc;Include Atom Elements=Auto;Include Expanded Entities=False;Integrated Security=False;User ID=admin@tanentIdi.onmicrosoft.com;Persist Security Info=False;Time Out=600;Schema Sample Size=25;Retry Count=5;Retry Sleep=100;Keep Alive=False;Max Received Message Size=4398046511104"
+      MicrosoftOnlineServicesAuth="True"
+      AuthType="MicrosoftOnlineService"
+      ConnectByProxy="False">
+      <Password
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAhlRk7t8B/ki6DXI0QjtMJQAAAAACAAAAAAADZgAAwAAAABAAAACH1DIquOeHizaxnN4N8QsGAAAAAASAAACgAAAAEAAAAJ6hcyxNhqjQeMCrzhQeMpM4AAAApB735opb3WSw9QB2CRv57odAgANvd7jyPzzhBcVQFiQ0nw/fIWX8x9z5UH8quZlVJFAz59eS/1MUAAAAhJZkS7cBQU/m3NF6FcWgyRpKmlA=</Password>
+    </ODataConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

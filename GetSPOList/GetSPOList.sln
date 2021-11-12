@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "GetSPOList", "GetSPOList\GetSPOList.dtproj", "{62B92766-D2EA-42BC-8A07-773A650A791C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62B92766-D2EA-42BC-8A07-773A650A791C}.Development|Default.ActiveCfg = Development
+		{62B92766-D2EA-42BC-8A07-773A650A791C}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B231A19-80D6-418B-ACF9-792CC616A0C4}
+	EndGlobalSection
+EndGlobal

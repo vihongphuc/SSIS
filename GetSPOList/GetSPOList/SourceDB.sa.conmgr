@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="SourceDB.sa"
+  DTS:DTSID="{EBF8819A-8054-4B1E-A168-F8852DCB6261}"
+  DTS:CreationName="ADO.NET:System.Data.Odbc.OdbcConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="uid=sa;Dsn=SourceDB;app=Microsoft® Visual Studio®;wsid=localhost;database=SPO;">
+      <DTS:Password
+        DTS:Name="pwd"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAhlRk7t8B/ki6DXI0QjtMJQAAAAACAAAAAAADZgAAwAAAABAAAABnbisP+APT2qOyShVn39/IAAAAAASAAACgAAAAEAAAAEgKriPx1WylsF27glRxXxpwAAAA8Hx2sYf5Ra5zLJv/amPjkkNwoBi1Rn+6PC4vOpBtCxtKbnVjt3dp+eIHV+Znj4QpWuUbPrTbi+HXFyTrU/gX/tifaYZTDA0h9ZjjFQ4WZRifMoaOVq3UuZYpAaJFDNC8wkjAmGlgYiVdELfhdp+lNBQAAABSc48qQJ3WQ+/jQzVo+HYMdS4gLQ==</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
